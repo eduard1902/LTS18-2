@@ -1,1 +1,1 @@
-# LTS18-2
+# lesson-day-3
